@@ -1,7 +1,7 @@
 ﻿# Medical_Appointments
  # Project: Medical_appointments-may-2016
 
-## Table of Contents
+#  Table of Contents
 <ul>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#wrangling">Data Wrangling</a></li>
