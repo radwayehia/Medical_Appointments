@@ -1,5 +1,4 @@
-﻿# Medical_Appointments
- # Project: Medical_appointments-may-2016
+﻿# Project: Medical_appointments-may-2016
 
 #  Table of Contents
 <ul>
